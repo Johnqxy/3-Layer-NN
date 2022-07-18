@@ -1,2 +1,2 @@
 # 3-Layer-NN
-3 Layer MLP, first step into deep learning, sexual class
+3 Layer MLP, first step into deep learning, gender classification
